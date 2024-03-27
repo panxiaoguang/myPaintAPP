@@ -20,5 +20,5 @@ reflex run
 ```
 
 ## screenshot
-![screenshot1]("https://picshack.net/ib/hYjzZ9CF3q.png")
-![screenshot2]("https://picshack.net/ib/x2N2K0P6Z1.png")
+![screenshot1](assets/shot1.png)
+![screenshot2](assets/shot2.png)
