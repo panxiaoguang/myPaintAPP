@@ -20,5 +20,5 @@ reflex run
 ```
 
 ## screenshot
-![screenshot1]("https://github.com/panxiaoguang/myPaintAPP/blob/main/assets/shot1.png")
+![screenshot1]("assets/shot1.png")
 ![screenshot2]("https://github.com/panxiaoguang/myPaintAPP/blob/main/assets/shot1.png")
