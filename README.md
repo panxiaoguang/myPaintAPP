@@ -19,3 +19,6 @@ pip install -r requirements.txt
 reflex run
 ```
 
+## screenshot
+![screenshot1]("./assets/shot1.png")
+![screenshot2]("./assets/shot2.png")
